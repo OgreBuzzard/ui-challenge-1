@@ -1,0 +1,45 @@
+body {
+    width: 480px;
+}
+
+.header {
+    background-color: gray;
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 75px;
+}
+
+.sidebar {
+    background-color: gray;
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 150px;
+}
+
+.top div {
+    background-color: gray;
+    box-sizing: border-box;
+    border: 1px solid black;
+    height: 125px;
+}
+
+.bottom div {
+    background-color: gray;
+    box-sizing: border-box;
+    border: 1px solid black;
+    float: left;
+    width: 240px;
+    height: 250px;
+}
+
+.footer {
+    background-color: gray;
+    box-sizing: border-box;
+    border: 1px solid black;
+    clear: left;
+    height: 80px;
+}
+
+@media only screen and (min-width: 800px) {
+
+}
