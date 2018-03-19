@@ -54,23 +54,23 @@ body {
     
     .sidebar {
         float: left;
-        width: 20.84%;
+        width: 20.83333333%;
         height: 600px;
     }
     
     .top div {
-        width: 39.58%;
+        width: 39.58333333%;
         height: 200px;
     }
     
     .bottom div {
-        width: 19.79%;
+        width: 19.79166667%;
         height: 250px;
     }
     
     .footer {
         display: inline-block;
-        width: 79.16%;
+        width: 79.16666667%;
         height: 150px;
     }
 }
