@@ -12,7 +12,9 @@ footer,header,section {
 }
 
 body {
-    line-height:1
+    line-height:1;
+    max-width: 960px;
+    margin: auto;
 }
 
 ol,ul {
@@ -43,13 +45,8 @@ body {
 }
 
 .box-name {
-    font-size: 1.5em;
-    padding: 15px 10px;
-}
-
-.dimensions {
     text-align: center;
     font-size: 1.5em;
     position: relative;
-    top: 0%;
+    top: 40%;
 }
